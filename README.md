@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ltxhhz</h1>
-<h3 align="center">A novice front-end development from China</h3>
+<h3 align="center">A novice front-end developer from China</h3>
 <div align="center">
   
   [![](https://komarev.com/ghpvc/?username=ltxhhz&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)  
